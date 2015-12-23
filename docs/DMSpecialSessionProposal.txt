@@ -1,0 +1,37 @@
+
+=====================================================================================
+Session Title 
+Astrophysical constraints of dark matter properties
+
+Session Description
+The nature of the dark matter that fills the universe remains a profound puzzle, more than eighty years since its existence was inferred through its gravitational signature. Today, we have a robust census of the amount and the large-scale distribution of dark matter, from the present to early times in the universe. Also, experiments for direct detection and particle collider production of dark matter reach levels of sensitivity that already constrain popular classes of candidates. Each candidate class has implications on astronomical scales. 
+
+There are many paths being actively pursued, from (astronomically) small and local scales, to horizon-scale and at very early cosmic epochs. Pursuing multiple aspects of dark matter properties motivates hugely diverse missions and instrumentation, including but not limited to ALMA, SKA, JWST, Euclid, LSST, and WFIRST, even as insights continue from existing platforms. In parallel with observational progress, the theoretical and numerical repertoire is rapidly moving beyond the canonical and generic “cold” dark matter scenario, to explore the astronomical-scale implications of very specific classes of dark matter particle candidates, reaching into more nuanced connections across astrophysics and particle physics. 
+
+The time is right for a community-wide discussion on the specific physical properties of dark matter that may be measured or constrained through diverse astronomical observations. The theme of this AAS Special Session is to frame, and to give proposed answers to two classes of questions. 
+
+* First, which are the particle properties that are most sensible to discuss in the context of astronomical observations and constraints, that are not restrictive to a pre-determined class of candidate. These may include some parametrization of the "temperature," a static or velocity-dependent self-interaction cross section, and the matter power spectrum roll-off scale. 
+
+* Second, what are meaningful “figures of merit” that could be used across different astronomical probes that are also useful in the language of particle physics, to encourage communication as limits from direct and production lines of work improve or achieve success.
+
+Tom Abel, SLAC/Stanford
+Alyson Brooks, Rutgers
+Matt Buckley, Rutgers
+James Bullock, UCI
+Michelle Collins, Yale
+Francis-Yan Cyr-Racine, JPL, Harvard
+Will Dawson, UC Davis
+Alex Drlica, FNAL
+Jenny Gaskins, University of Amsterdam
+Manoj Kaplinghat, UCI
+Chuck Keeton, Rutgers
+Stacy Kim, OSU
+Leonidas Moustakas, JPL/Caltech (Organizer)
+Annika Peter, OSU
+Justin Read, Surrey
+Josh Simon, Carnegie
+Rachel Somerville, Rutgers
+Erik Tollerud, STScI
+Tommaso Treu, UCLA
+Risa Wechsler, Stanford
+=====================================================================================
